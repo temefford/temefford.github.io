@@ -1,15 +1,20 @@
 # Projects
 
 ## Machine Learning
-### Microbiome Analysis
+### Microbiome Analysis using Decision Trees
+### Recommendation System/Web Scraping
+### Finance Project
 
 ## Discrete Event Simulation
+### Variable Resources in SimPy
+### Simple Task Model
 
 ## AWS and EMR
+### Higgs Projects
 
 
 
 [Link](teddymefford.com) 
 [Link](www.linkedin.com/in/temefford) 
-
+www.linkedin.com/in/temefford
 **Bold** and _Italic_ and `Code` text
