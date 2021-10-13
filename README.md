@@ -4,6 +4,8 @@
 ### Microbiome Analysis using Decision Trees
 ### Recommendation System/Web Scraping
 ### Finance Project
+### Time Series Project
+### Golf Project
 
 ## Discrete Event Simulation
 ### Variable Resources in SimPy
